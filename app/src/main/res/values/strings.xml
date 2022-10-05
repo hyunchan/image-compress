@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">image-compress</string>
+    <string name="select_a_image">select a image</string>
+    <string name="compress">compress</string>
+    <string name="_1_100">1-100</string>
+</resources>
